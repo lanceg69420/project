@@ -150,11 +150,7 @@ input:focus{
 button{
     border: none;
     padding: 10px 20px;
-    background: linear-gradient(
-        130deg,
-        var(--primary-color),
-        var(--tertiary-color)
-    );
+    background: var(--tertiary-color);
     color: #ffffff;
     border-radius: 3px;
 }
